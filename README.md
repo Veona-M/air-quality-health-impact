@@ -1,6 +1,6 @@
 # Air Quality Impact Prediction
 
-![overview](/content/drive/MyDrive/air-quality-health-impact/Air_pollution1.png)
+![Overview](images/Air_pollution1.png)
 
 ## Table of Contents
 - [Overview](#overview)
@@ -49,7 +49,8 @@ Classification modeling was implemented to handle the problem of air quality imp
 - **Recall**: Reflects the model’s ability to identify true positives.
 - **ROC AUC Score**: Evaluates the model's ability to distinguish between different classes.
 
-![Comparison of Metrics for Different Models](/content/drive/MyDrive/air-quality-health-impact/Comparison of Metrics for Different Models.png)
+![Comparison of Metrics for Different Models](images/Comparison_of_Metrics_for_Different_Models.png)
+
 
 ## Conclusion
 The Random Forest model proved to be the most efficient tool in predicting the impact of air quality on human health. It gave excellent accuracy with good balance over all metrics. This analysis also underlined the issue of class imbalance as an important issue to take into consideration for further perfection of the model. Among the important features were AQI and PM2.5, which had a greater influence than the other features included in this model in predicting health impacts.
