@@ -49,7 +49,7 @@ Classification modeling was implemented to handle the problem of air quality imp
 - **Recall**: Reflects the model’s ability to identify true positives.
 - **ROC AUC Score**: Evaluates the model's ability to distinguish between different classes.
 
-![Comparison of Metrics for Different Models](images/Comparison_of_Metrics_for_Different_Models.png)
+![Comparison of Metrics for Different Models](images/Comparison of Metrics for Different Models.png)
 
 
 ## Conclusion
